@@ -40,8 +40,8 @@ This project is an interactive Power BI dashboard developed to support public he
 
 ## Files in This Repository
 
-* `Ebola Outbreak Emergency Tracker Dashboard.pbix` – Power BI dashboard file
-* `ebola-dashboard.png` – dashboard preview image
+* `EBOLA.pbix` – Power BI dashboard file
+* `Screenshot 2026-06-20-203407.png` – dashboard preview image
 * `README.md` – project documentation
 
 ## Project Outcome
